@@ -1,0 +1,575 @@
+---------------------------------------
+Entering ./abendezu/ and running make...
+---------------------------------------
+Running -----lab1p2q1-----
+./lab1p2q1
+One half is 50%
+The difference between 10 and 3 is 7
+1.000000 / 3.000000 is 0.333333
+Running -----lab1p2q2-----
+Give two integers: You entered 12 and 5, their sum is: 17
+Give two floats: You entered 3.140000 and 0.000000, their product is: 0.000000
+Give a word: Yeah! Yeah!
+Running -----lab1p3-----
+The file was not read.
+make: *** [Makefile:16: all] Error 1
+---------------------------------------
+Entering ./acroberts02/ and running make...
+---------------------------------------
+Running -----lab1p2q1-----
+./lab1p2q1
+One half is 50%
+The difference between 10 and 3 is 7
+1.000000 / 3.000000 is 0.333333
+Running -----lab1p2q2-----
+Give two integers: You entered 12 and 5, their sum is: 17
+Give two floats: You entered 3.140000 and 0.000000, their product is: 0.000000
+Give a word: Yeah! Yeah!
+Running -----lab1p3-----
+Segmentation fault (core dumped)
+make: *** [Makefile:16: all] Error 139
+---------------------------------------
+Entering ./ajhart01/ and running make...
+---------------------------------------
+Running -----lab1p2q1-----
+./lab1p2q1
+One half is 50%
+The difference between 10 and 7 is 3
+1.000000 / 3.000000 is 0.333333
+Running -----lab1p2q2-----
+Give two integers: You entered 12 and 5, their sum is: 17
+Give floats integers: You entered 3.140000 and 0.000000, their product is: 0.000000
+Give a word: Yeah! Yeah!
+Running -----lab1p3-----
+Please enter desired string (max length 100 characters, all spacebars must be underscores '_'):
+GNIDAER SDROCER FO ELBAIRAV HTGNEL?
+
+Running -----lab1p4-----
+./lab1p4 my name is Marwan and my car is White
+White, Marwan, name, and, car
+---------------------------------------
+Entering ./bamatuszewski/ and running make...
+---------------------------------------
+Running -----lab1p2q1-----
+./lab1p2q1
+One half is 50%
+The difference betwween 10 and 3 is 7
+1.000000 / 3.000000 is 0.333333
+Running -----lab1p2q2-----
+Give two integers: You entered 12 and 5, their sum is: 17
+Give two floats: You entered 3.140000 and 0.000000, their product is: 0.000000
+Give a word: Yeah! Yeah!
+Running -----lab1p3-----
+Segmentation fault (core dumped)
+make: *** [Makefile:16: all] Error 139
+---------------------------------------
+Entering ./celster/ and running make...
+---------------------------------------
+Running -----lab1p2q1-----
+./lab1p2q1
+One half is 50%
+The difference between 10 and 3 is 7
+1.000000 / 3.000000 is 0.333333
+Running -----lab1p2q2-----
+Give two integers: You entered 12 and 5, their sum is: 17
+Give two floats: You entered 3.140000 and 0.000000, their product is: 0.000000
+Give a word: Yeah! Yeah!
+Running -----lab1p3-----
+Segmentation fault (core dumped)
+make: *** [Makefile:16: all] Error 139
+---------------------------------------
+Entering ./cjmesserle/ and running make...
+---------------------------------------
+Running -----lab1p2q1-----
+./lab1p2q1
+One half is 50% 
+The difference between 10 and 3 is 7 
+1.000000 / 3.000000 is 0.333333 
+Running -----lab1p2q2-----
+Give two integers: You entered 12 and 5, their sum is: 17 
+Give two floats: You entered 3.140000 and 0.000000, their product is: 0.000000 
+Give a word: Yeah! Yeah! 
+Running -----lab1p3-----
+ERROR: File cannot be opened. Maybe it doesn't exist?
+make: *** [Makefile:16: all] Error 1
+---------------------------------------
+Entering ./crmurphy/ and running make...
+---------------------------------------
+Running -----lab1p2q1-----
+./lab1p2q1
+One half is 50%
+The difference between 10 and 3 is 7
+1.000000 / 3.000000 is 0.333333
+$
+Running -----lab1p2q2-----
+Give two integers: You entered 12 and 5, their sum is: 17
+Give two floats: You entered 3.140000 and 0.000000, their product is: 0.000000
+Give a word: Yeah! Yeah!
+$
+Running -----lab1p3-----
+Error opening file.
+make: *** [Makefile:16: all] Error 1
+---------------------------------------
+Entering ./cttran/ and running make...
+---------------------------------------
+Running -----lab1p2q1-----
+./lab1p2q1
+One half is 50%
+The difference between 10 and 3 is 7
+1.000000 / 3.000000 is 0.333333
+
+Running -----lab1p2q2-----
+Give two integers: You entered 12 and 5, their sum is: 17
+Give two floats: You entered 3.140000 and 0.000000, their product is: 0.000000
+Give a word: Yeah! Yeah!
+Running -----lab1p3-----
+Error.make: *** [Makefile:16: all] Error 1
+---------------------------------------
+Entering ./gevaughan/ and running make...
+---------------------------------------
+Running -----lab1p2q1-----
+./lab1p2q1
+One half is 50%
+The difference between 10 and 3 is 7 
+1.000000 / 3.000000 is 0.333333 
+
+Running -----lab1p2q2-----
+Give two integers: You intered 12 and 5, their sum is: 17 
+Give two floats: You entered 3.140000 and 0.000000, their sum is 3.140000 
+Give a word: Yeah! Yeah! 
+
+Running -----lab1p3-----
+There was an error opening the input file.
+: No such file or directory
+make: *** [Makefile:16: all] Error 1
+---------------------------------------
+Entering ./jdpowell02/ and running make...
+---------------------------------------
+Running -----lab1p2q1-----
+./lab1p2q1
+One half is 50%
+The difference between 10 and 7 is 3
+1.000000 / 3.000000 is 0.333333
+Running -----lab1p2q2-----
+Give two integers: You entered 12 and 5, their sum is: 17
+Give two floats: You entered 3.140000 and 0.000000, their product is: 0.000000
+Give a word: Yeah! Yeah!
+Running -----lab1p3-----
+All lines processed and written to output file successfully.
+All lines processed and written to output file successfully.
+-----Creating temporary file----
+Running lab1p3 with lab1p3in as input...
+./lab1p3 lab1p3in
+All lines processed and written to output file successfully.
+cat lab1p3out
+GNIDAER SDROCER FO ELBAIRAV HTGNEL?
+Running -----lab1p4-----
+./lab1p4 my name is Marwan and my car is White
+The list:- White, Marwan, name, and, car
+---------------------------------------
+Entering ./jkuang/ and running make...
+---------------------------------------
+Running -----lab1p2q1-----
+./lab1p2q1
+One half is 50%
+The difference between 10 and 3 is 7
+1.000000 / 3.000000 is 0.333333
+Running -----lab1p2q2-----
+Give two intergers: You entered 12 and 5, their sum is: 17
+Give two floats: You entered 3.140000 and 0.000000, their product is: 0.000000
+Give a word: Yeah! Yeah!
+Running -----lab1p3-----
+original string: my_name_is_john! I_am_small
+
+reverse: YM EMAN SI NHOJ! I MA LLAMS
+
+original string: my_name_is_john! I_am_small
+
+reverse: YM EMAN SI NHOJ! I MA LLAMS
+
+-----Creating temporary file----
+Running lab1p3 with lab1p3in as input...
+./lab1p3 lab1p3in
+original string: Reading_records_of_variable_length?
+
+reverse: GNIDAER SDROCER FO ELBAIRAV HTGNEL?
+
+cat lab1p3out
+GNIDAER SDROCER FO ELBAIRAV HTGNEL?
+Running -----lab1p4-----
+./lab1p4 my name is Marwan and my car is White
+The list:- White, Marwan, name, and, car
+---------------------------------------
+Entering ./jliu48/ and running make...
+---------------------------------------
+Running -----lab1p2q1-----
+./lab1p2q1
+One half is 50%
+The difference between 10 and 3 is 7
+1.000000 / 3.000000 is 0.333333
+Running -----lab1p2q2-----
+Give two intergers: You entered 12 and 5, their sum is: 17
+Give two floats: You entered 3.140000 and 0.000000, their product is: 0.000000
+Give a word: Yeah! Yeah!
+Running -----lab1p3-----
+my_name_is_john! I_am_small
+Output: YM EMAN SI NHOJ! I MA LLAMS
+my_name_is_john! I_am_small
+Output: YM EMAN SI NHOJ! I MA LLAMS
+-----Creating temporary file----
+Running lab1p3 with lab1p3in as input...
+./lab1p3 lab1p3in
+Reading_records_of_variable_length?
+Output: GNIDAER SDROCER FO ELBAIRAV HTGNEL?
+cat lab1p3out
+GNIDAER SDROCER FO ELBAIRAV HTGNEL?
+Running -----lab1p4-----
+./lab1p4 my name is Marwan and my car is White
+The list:- White, Marwan, name, and, car
+---------------------------------------
+Entering ./jmbradecamp/ and running make...
+---------------------------------------
+Running -----lab1p2q1-----
+./lab1p2q1
+One half is 50%
+The difference between 10 and 3 is 7
+1.000000 / 3.000000 is 0.333333
+Running -----lab1p2q2-----
+Give two integers: You entered 12 and 5, their sum is: 17
+Give two floats: You entered 3.140000 and 0.000000, their product is: 0.000000
+Give a word: Yeah! Yeah!
+Running -----lab1p3-----
+Input file not found
+: No such file or directory
+make: *** [Makefile:16: all] Error 1
+---------------------------------------
+Entering ./jmpomeroy/ and running make...
+---------------------------------------
+Running -----lab1p2q1-----
+./lab1p2q1
+One half is 50%
+The difference between 10 and 3 is 7
+1.000000 / 3.000000 is 0.333333
+Running -----lab1p2q2-----
+Give two integers: You entered 12 and 5, their sum is: 17
+Give two floats: You entered 3.140000 and 0.000000, their product is: 0.000000
+Give a word: Yeah! Yeah!
+Running -----lab1p3-----
+Could not open file.
+make: *** [Makefile:16: all] Error 1
+---------------------------------------
+Entering ./jwintrone/ and running make...
+---------------------------------------
+Running -----lab1p2q1-----
+./lab1p2q1
+One half is 50%
+The difference between 10 and 3 is 7
+1.000000 / 3.000000 is 0.333333
+Running -----lab1p2q2-----
+Give two integers: You entered 12 and 5, their sum is 17
+Give two floats: You entered 3.140000 and 0.000000, their product is 0.000000
+Give a word: Yeah! Yeah!
+Running -----lab1p3-----
+Cannot open input file
+make: *** [Makefile:16: all] Error 1
+---------------------------------------
+Entering ./kacombs/ and running make...
+---------------------------------------
+Running -----lab1p2q1-----
+./lab1p2q1
+One half is 50%
+The difference between 10 and 3 is 7
+1.000000 /3.000000 is 0.333333
+Running -----lab1p2q2-----
+Give two integers: 
+You entered 12 and 5, their sum is: 17 
+Enter two floats: 
+You entered 3.140000 and 0.000000, their product is: 0.000000 
+Give a word: 
+Yeah! Yeah! 
+Running -----lab1p3-----
+Segmentation fault (core dumped)
+make: *** [Makefile:16: all] Error 139
+---------------------------------------
+Entering ./karitter/ and running make...
+---------------------------------------
+Running -----lab1p2q1-----
+./lab1p2q1
+One half is 50%
+The difference between 10 and 3 is 7
+2.50 / 2.50 is 1.00
+Running -----lab1p2q2-----
+Give two integers: You entered 12 and 5, their sum is: 17
+Give two floats: You entered 3.140000 and 0.000000, their product is: 0.000000
+Give a word: Yeah! Yeah!
+Running -----lab1p3-----
+Error opening file.
+make: *** [Makefile:16: all] Error 1
+---------------------------------------
+Entering ./kdunnigan/ and running make...
+---------------------------------------
+Running -----lab1p2q1-----
+./lab1p2q1
+One half is 50% 
+The difference between 10 and 3 is 7
+1.000000 / 3.000000 is 0.333333 
+Running -----lab1p2q2-----
+Give two integers: You entered 12 and 5, their sum is: 17
+Give two floats: You entered 3.140000 and 0.000000, their product is: 0.000000 
+Give a word: Yeah! Yeah! 
+Running -----lab1p3-----
+Failed to open file.
+make: *** [Makefile:16: all] Error 1
+---------------------------------------
+Entering ./lli27/ and running make...
+---------------------------------------
+Running -----lab1p2q1-----
+./lab1p2q1
+One half is 50%
+The difference between 10 and 3 is 7
+1.000000 / 3.000000 is 0.333333
+Running -----lab1p2q2-----
+Give two integers: You entered 12 and 5, their sum is: 17
+Give two floats: You entered 3.140000 and 0.000000, their product is: 0.000000
+Give a word: Yeah! Yeah!
+Running -----lab1p3-----
+Segmentation fault (core dumped)
+make: *** [Makefile:16: all] Error 139
+---------------------------------------
+Entering ./mgrooff/ and running make...
+---------------------------------------
+Running -----lab1p2q1-----
+./lab1p2q1
+One half is 50%
+The difference between 5 and 3 is 2
+1.000000 / 3.000000 is 0.333333
+Running -----lab1p2q2-----
+Give two integers: You entered 12 and 5, their sum is: 17
+Give two floats: You entered 3.140000 and 0.000000, their product is: 0.000000
+Give a word: Yeah! Yeah!
+Running -----lab1p3-----
+File not found
+File not found
+-----Creating temporary file----
+Running lab1p3 with lab1p3in as input...
+./lab1p3 lab1p3in
+File not found
+cat lab1p3out
+cat: lab1p3out: No such file or directory
+make: *** [Makefile:22: all] Error 1
+---------------------------------------
+Entering ./ncrose/ and running make...
+---------------------------------------
+Running -----lab1p2q1-----
+./lab1p2q1
+One half is 50% 
+The difference between 10 and 3 is 7
+1.000000 / 3.000000 is 0.333333
+Running -----lab1p2q2-----
+Give two integers: You entered 12 and 5, their sum is: 17 
+Give two floats: You entered 3.140000 and 0.000000, their product is: 0.000000 
+Give a word: 
+Yeah! Yeah! 
+Running -----lab1p3-----
+file can't be opened 
+make: *** [Makefile:16: all] Error 1
+---------------------------------------
+Entering ./nsforsythe/ and running make...
+---------------------------------------
+Running -----lab1p2q1-----
+./lab1p2q1
+One half is 50%
+The difference between 10 and 3 is 7
+1.000000 / 3.000000 is 0.333333
+Running -----lab1p2q2-----
+Give 2 integers: You entered 12 and 5, their sum is: 17
+Give 2 floats: You entered 3.140000 and 0.000000, their product is: 0.000000
+Give a word: Yeah! Yeah!
+Running -----lab1p3-----
+Could not open file.make: *** [Makefile:16: all] Error 1
+---------------------------------------
+Entering ./prboggs/ and running make...
+---------------------------------------
+Running -----lab1p2q1-----
+./lab1p2q1
+One half is 50%
+The difference between 10 and 3 is 7
+1.000000 / 3.000000 is 0.333333
+Running -----lab1p2q2-----
+Give two integers:You entered 12 and 5, their sum is: 17
+Give two floats:You entered 3.140000 and 0.000000, their product is: 0.000000
+Give a word:Yeah! Yeah!
+Running -----lab1p3-----
+Cannot open filemake: *** [Makefile:16: all] Error 1
+---------------------------------------
+Entering ./rwmiecznikowsk/ and running make...
+---------------------------------------
+Running -----lab1p2q1-----
+./lab1p2q1
+One half is 50%
+The difference between 10 and 7 is 3
+1.000000  / 3.000000 is 0.333333
+Running -----lab1p2q2-----
+Give two intgers: You enetered 12 and 5, their sum is: 17
+Give two floats: You entered 3.140000 and 0.000000, their product is: 0.000000
+Give a word: Yeah! Yeah!
+Running -----lab1p3-----
+Segmentation fault (core dumped)
+make: *** [Makefile:16: all] Error 139
+---------------------------------------
+Entering ./sleong/ and running make...
+---------------------------------------
+Running -----lab1p2q1-----
+./lab1p2q1
+One half is 50%
+The diffirence between 10 and 3 is 7
+1.000000 / 3.000000 is 0.333333
+Running -----lab1p2q2-----
+Give two integers: 
+You have entered 12 and 5, their sum is: 17
+Give two floats: 
+You have entered 3.140000 and 0.000000, their sum is: 0.000000
+Give a word: Yeah! Yeah!
+Running -----lab1p3-----
+Segmentation fault (core dumped)
+make: *** [Makefile:16: all] Error 139
+---------------------------------------
+Entering ./tkwon01/ and running make...
+---------------------------------------
+Running -----lab1p2q1-----
+./lab1p2q1
+One half is 50%
+The difference between 8 and 5 is 3
+2.500000 / 0.500000 is 5.000000
+Running -----lab1p2q2-----
+Give two integers: You entered 12 and 5, their sum is: 17
+Give two floats: You entered 3.140000 and 0.000000, their product is: 0.000000
+Give a word: Yeah! Yeah!
+Running -----lab1p3-----
+Enter a message: GNIDREA SDROREC FO ELBAVAIR HTGLEN?
+Running -----lab1p4-----
+./lab1p4 my name is Marwan and my car is White
+The list: White, Marwan, name, and, car
+---------------------------------------
+Entering ./wfan/ and running make...
+---------------------------------------
+Running -----lab1p2q1-----
+./lab1p2q1
+One half is 50%
+The difference between 10 and 3 is 7
+1.000000 / 3.000000 is 0.333333
+Running -----lab1p2q2-----
+Give two intergers: You entered 12 and 5, their sum is: 17
+Give two floats: You entered 3.140000 and 0.000000, their product is: 0.000000
+Give a word: Yeah! Yeah!
+Running -----lab1p3-----
+Error: Could not open input file.
+make: *** [Makefile:16: all] Error 1
+---------------------------------------
+Entering ./wmccann/ and running make...
+---------------------------------------
+Running -----lab1p2q1-----
+./lab1p2q1
+One half is 50%
+The difference between 10, and 3, is 7
+1.000000 / 3.000000 is 0.333333
+Running -----lab1p2q2-----
+Give two integers: You entered 12 and 5, their sum is: 17
+Give two floats: You entered 3.140000 and 0.000000, their product is: 0.000000
+Give a word: Yeah! Yeah!
+Running -----lab1p3-----
+Could not open input file
+make: *** [Makefile:16: all] Error 1
+---------------------------------------
+Entering ./wpmclemore/ and running make...
+---------------------------------------
+Running -----lab1p2q1-----
+./lab1p2q1
+One half is 50%
+The difference between 10 and 3 is 7
+1.000000 / 3.000000 is 0.333333
+Running -----lab1p2q2-----
+Give two integers: You entered 12 and 5, their sum is: 17
+Give two floats: You entered 3.140000 and 0.000000, their product is: 0.000000
+Give a word: Yeah! Yeah!
+Running -----lab1p3-----
+Error opening filemake: *** [Makefile:16: all] Error 1
+---------------------------------------
+Entering ./yliu85/ and running make...
+---------------------------------------
+Running -----lab1p2q1-----
+./lab1p2q1
+One half is 50 %
+The difference between 10 and 3 is 7
+1.000000 / 3.000000 is 0.333333
+Running -----lab1p2q2-----
+Give two integers: You entered 12 and 5, their sum is: 17
+Give two floats: You entered 3.140000 and 0.000000, their product is: 0.000000
+Give a word: Yeah!! Yeah!!
+Running -----lab1p3-----
+Segmentation fault (core dumped)
+make: *** [Makefile:16: all] Error 139
+---------------------------------------
+Entering ./zkbowden/ and running make...
+---------------------------------------
+Running -----lab1p2q1-----
+./lab1p2q1
+One half is 50%
+The difference between 10 and 3 is 7
+1.000000 / 3.000000 is 0.333333
+Running -----lab1p2q2-----
+Give two integers: You entered 12 and 5, their sum is: 17
+Give two floats: You entered 3.140000 and 0.000000, their product is: 0.000000
+Give a word: Yeah! Yeah!
+Running -----lab1p3-----
+Segmentation fault (core dumped)
+make: *** [Makefile:16: all] Error 139
+---------------------------------------
+Entering ./zmdib/ and running make...
+---------------------------------------
+Running -----lab1p2q1-----
+./lab1p2q1
+One half is 50%
+The difference between 10 and 3 is 7
+1.000000 / 3.000000 is 0.333333
+
+Running -----lab1p2q2-----
+Give two integers: You entered 12 and 5, their sum is: 17
+Give two floats: You entered 3.140000 and 0.000000, their product is: 0.000000
+Give a word: Yeah! Yeah!
+Running -----lab1p3-----
+Error opening file.
+make: *** [Makefile:16: all] Error 1
+---------------------------------------
+Entering ./zyshinaba/ and running make...
+---------------------------------------
+Running -----lab1p2q1-----
+./lab1p2q1
+One half is 50%
+The difference between 10 and 3 is 7
+1.000000 / 3.000000 is 0.333333
+
+Running -----lab1p2q2-----
+Give two integers: You entered 12 and 5, their sum is: 17
+Give two floats: You entered 3.140000 and 0.000000, their product is: 0.000000
+Give a word: Yeah! Yeah!
+
+Running -----lab1p3-----
+Error opening input file: No such file or directory
+make: *** [Makefile:16: all] Error 1
+---------------------------------------
+Entering ./zzheng11/ and running make...
+---------------------------------------
+Running -----lab1p2q1-----
+./lab1p2q1
+One half is 50%
+The difference between 10 and 3 is 7
+ 7.500000 / 2.500000 is 3.000000
+Running -----lab1p2q2-----
+Give two integers: You entered 12 and 5. Their sum is 17
+Give two floats: You entered 3.140000 and 0.000000. Their product is 0.000000
+Give a word: Yeah! Yeah!
+Running -----lab1p3-----
+Error opening file.
+make: *** [Makefile:16: all] Error 1
+Make executed in all subfolders containing a Makefile.
