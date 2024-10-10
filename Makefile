@@ -11,12 +11,12 @@ all: $(TARGETS)
 	@echo "Running -----lab1p2q1-----"
 	./lab1p2q1
 	@echo "Running -----lab1p2q2-----"
-	@echo 1 2 1 2 Yeah!| ./lab1p2q2
+	@echo 12 5 3.14 Yeah!| ./lab1p2q2
 	@echo "Running -----lab1p3-----"
-	@echo "my_name_is_john! I_am_small"| ./lab1p3
+	@echo "Reading_records_of_variable_length?"| ./lab1p3
 	@./lab1p3 
 	@echo "-----Creating temporary file----"
-	@echo "my_name_is_john! I_am_small" > lab1p3in
+	@echo "Reading_records_of_variable_length?" > lab1p3in
 	@echo "Running lab1p3 with lab1p3in as input..."
 	./lab1p3 lab1p3in
 	cat lab1p3out
