@@ -10,10 +10,13 @@ the structure can be the following shape:
 │   ├── Makefile
 │   └── README
 ├── student_folder_b
-├── make_execution.log
+│   ├── make_execution.log
 │   ├── labxpxx.c
 │   ├── Makefile
 │   └── README
+├── student_folder_xxx
+...
+...
 ├── log-simple.txt
 ├── log.txt
 ├── ex_make.sh    \\ exec all makefiles
