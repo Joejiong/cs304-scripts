@@ -26,8 +26,8 @@ all: $(TARGETS)
 	cat lab1p3out
 	@echo "Running -----lab1p4-----"
 	./lab1p4 my name is Marwan and my car is White
-	# @echo "checking -----lab1p4----- mem leakage"
-	# valgrind $(VALGRIND_FLAGS) ./lab1p4
+	@echo "checking -----lab1p4----- mem leakage"
+	valgrind $(VALGRIND_FLAGS) ./lab1p4
 	
 # Rule to compile each file into an executable
 lab1p2q1: lab1p2q1.c
