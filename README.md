@@ -19,10 +19,21 @@ the structure can be the following shape:
 ...
 ├── log-simple.txt
 ├── log.txt
-├── ex_make.sh    \\ exec all makefiles
-├── g_makefile.sh \\ insert the template makefile to each stu's folder
+├── exe_makefile.sh    \\ exec all makefiles
+├── gen_makefile.sh \\ insert the template makefile to each stu's folder
 ├── make_execution.log
 ├── Makefile
 ```
 The log-simple log contains res w/o checks
 The log-full.txt contains res w/ mem checks
+
+How to use the script:
+
+1. insert the template makefile to every student folder.
+```
+bash gen_makefile.sh
+```
+2. exec the make and produce test results for each student.
+```
+bash exe_makefile.sh
+```
