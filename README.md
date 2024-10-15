@@ -20,7 +20,7 @@ the structure can be the following shape:
 ├── log-simple.txt
 ├── log.txt
 ├── exe_makefile.sh    \\ exec all makefiles
-├── gen_makefile.sh \\ insert the template makefile to each stu's folder
+├── gen_makefile.sh    \\ insert the template makefile to each students' folder
 ├── make_execution.log
 ├── Makefile
 ```
