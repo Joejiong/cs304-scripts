@@ -17,8 +17,8 @@ the structure can be the following shape:
 ├── student_folder_xxx
 ...
 ...
-├── log-simple.txt
-├── log.txt
+├── log-simple.txt     \\ log file w/o mem-check
+├── log.txt            \\ exec all w/  mem-check
 ├── exe_makefile.sh    \\ exec all makefiles
 ├── gen_makefile.sh    \\ insert the template makefile to each students' folder
 ├── make_execution.log
